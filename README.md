@@ -7,8 +7,9 @@ You can view our work in the following link in overleaf:  [link](https://www.ove
 
 Our code are available at :[link](https://github.com/JohnnyGWY/FSCL) 
 
+To evaluate FSCL framwork, we conduct experiments on 5 RE publice datasets, including SEMEVAL, DialogRE, TACRED-Revisit, Re-TACRE and TACRED. You can download them via this [datasets link](https://drive.google.com/file/d/1BQW3ekxJ96w2652FndRtcEIHp6Gwy_py/view?usp=sharing)
 
-some related work:
+some related works you can read and have a more understanding for our work:
 
 ```bibtex
    @inproceedings{guu2020retrieval,
